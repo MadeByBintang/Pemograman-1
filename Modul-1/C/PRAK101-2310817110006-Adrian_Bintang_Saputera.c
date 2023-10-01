@@ -11,7 +11,7 @@ int main()
     printf("Vaiabel y bernilai: ");
     scanf("%i", &y);
 
-    printf("Vaiabel y bernilai: ");
+    printf("Vaiabel z bernilai: ");
     scanf("%i", &z);
 
     printf("Jumlah variabel tersebut adalah %i\n", x + y + z);
